@@ -1,5 +1,14 @@
+<!--
+  PROFILE README for github.com/Tiltushkin
+  Style: RETRO-MATRIX — neon green (#00ff88) on near-black (#0b0f10), monospaced vibe.
+-->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b0f10,100:00ff88&text=Hi%20there,%20I%27m%20Tiltushkin%20👋&fontAlign=50&fontColor=ffffff&fontSize=38&desc=Frontend%20Developer%20—%20React%20/%20Vue&descAlign=50&descAlignY=84&descSize=16" alt="header"/>
+</p>
+
+<p align="center">
+  <img src="./assets/scanlines.gif" width="1000" alt="scanlines animation"/>
 </p>
 
 <p align="center">
@@ -44,91 +53,61 @@ $ motto
 
 ---
 
-### 🧰 Tech Stack
-
-<p align="center">
-  <img alt="HTML5" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img alt="CSS3" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img alt="JavaScript" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img alt="TypeScript" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img alt="React" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img alt="Redux" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>
-  <img alt="Vue.js" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
-  <img alt="Vite" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg"/>
-  <img alt="Webpack" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"/>
-  <img alt="Git" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SPA-00ff88?style=for-the-badge&labelColor=0b0f10" />
-  <img src="https://img.shields.io/badge/SSR-00ff88?style=for-the-badge&labelColor=0b0f10" />
-  <img src="https://img.shields.io/badge/State%20Management-00ff88?style=for-the-badge&labelColor=0b0f10" />
-  <img src="https://img.shields.io/badge/Routing-00ff88?style=for-the-badge&labelColor=0b0f10" />
-  <img src="https://img.shields.io/badge/Performance-00ff88?style=for-the-badge&labelColor=0b0f10" />
-</p>
-
----
-
 ### 💎 Избранные проекты
-
-> Мини-превью можно заменить на реальные скриншоты — положи их в `/assets/*` и обнови `src` ниже. Сейчас стоят заглушки в стиле матрицы.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Tiltushkin/React_Guides">
-        <img src="https://placehold.co/840x420/0b0f10/00ff88?text=React_Guides%20%E2%80%94%20Preview" alt="React_Guides preview"/>
+      <a href="https://github.com/TheLarhand/Coop_project">
+        <img src="./assets/preview-coop_project.png" alt="Coop_project preview"/>
       </a>
-      <h4>🧭 React Guides / Шпаргалки</h4>
-      <p>Коллекция практичных рецептов по React: состояние, роутинг, хуки, настройки Vite/Webpack.</p>
+      <h4>🧭 Coop_project — CRM</h4>
+      <p>Командный проект: CRM на React + TypeScript (авторизация, лиды, аналитика).</p>
       <p>
-        <a href="https://github.com/Tiltushkin/React_Guides"><img src="https://img.shields.io/badge/Repo-00ff88?style=for-the-badge&logo=github&labelColor=0b0f10"/></a>
+        <a href="https://github.com/TheLarhand/Coop_project"><img src="https://img.shields.io/badge/Repo-00ff88?style=for-the-badge&logo=github&labelColor=0b0f10"/></a>
         <img src="https://img.shields.io/badge/React-00ff88?style=for-the-badge&logo=react&labelColor=0b0f10&logoColor=00d8ff"/>
-        <img src="https://img.shields.io/badge/Vite-00ff88?style=for-the-badge&logo=vite&labelColor=0b0f10"/>
+        <img src="https://img.shields.io/badge/TypeScript-00ff88?style=for-the-badge&logo=typescript&labelColor=0b0f10"/>
       </p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Tiltushkin/MineOfExile">
-        <img src="https://placehold.co/840x420/0b0f10/00ff88?text=MineOfExile%20%E2%80%94%20Preview" alt="MineOfExile preview"/>
+      <a href="https://github.com/Tiltushkin/Tiltushkin-API">
+        <img src="./assets/preview-tiltushkin-api.png" alt="Tiltushkin-API preview"/>
       </a>
-      <h4>🛡️ MineOfExile (Forge Mod)</h4>
-      <p>Minecraft-мод с кастомными инстансами, аффиксами, UI-оверлеями и собственной логикой рендера.</p>
+      <h4>🧩 Tiltushkin-API</h4>
+      <p>Backend: C# + MySQL + phpMyAdmin. REST, авторизация, CRUD.</p>
       <p>
-        <a href="https://github.com/Tiltushkin/MineOfExile"><img src="https://img.shields.io/badge/Repo-00ff88?style=for-the-badge&logo=github&labelColor=0b0f10"/></a>
-        <img src="https://img.shields.io/badge/Kotlin-00ff88?style=for-the-badge&logo=kotlin&labelColor=0b0f10"/>
-        <img src="https://img.shields.io/badge/Forge-00ff88?style=for-the-badge&labelColor=0b0f10"/>
+        <a href="https://github.com/Tiltushkin/Tiltushkin-API"><img src="https://img.shields.io/badge/Repo-00ff88?style=for-the-badge&logo=github&labelColor=0b0f10"/></a>
+        <img src="https://img.shields.io/badge/C%23-00ff88?style=for-the-badge&logo=dotnet&labelColor=0b0f10"/>
+        <img src="https://img.shields.io/badge/MySQL-00ff88?style=for-the-badge&logo=mysql&labelColor=0b0f10"/>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Tiltushkin/SVOCraft">
-        <img src="https://placehold.co/840x420/0b0f10/00ff88?text=SVOCraft%20%E2%80%94%20Preview" alt="SVOCraft preview"/>
+      <a href="https://github.com/Tiltushkin/KENTOZE-ALLAMMO">
+        <img src="./assets/preview-kentoze-allammo.png" alt="KENTOZE-ALLAMMO preview"/>
       </a>
-      <h4>🎮 SVOCraft</h4>
-      <p>Кастомные матчи, наблюдение, камера, nameplates и внутриигровые HUD-меню.</p>
+      <h4>🎯 KENTOZE-ALLAMMO</h4>
+      <p>Мод для SPT: торговец всеми патронами, удобные конфиги, QoL.</p>
       <p>
-        <a href="https://github.com/Tiltushkin/SVOCraft"><img src="https://img.shields.io/badge/Repo-00ff88?style=for-the-badge&logo=github&labelColor=0b0f10"/></a>
-        <img src="https://img.shields.io/badge/Java-00ff88?style=for-the-badge&logo=oracle&labelColor=0b0f10"/>
-        <img src="https://img.shields.io/badge/GeckoLib-00ff88?style=for-the-badge&labelColor=0b0f10"/>
+        <a href="https://github.com/Tiltushkin/KENTOZE-ALLAMMO"><img src="https://img.shields.io/badge/Repo-00ff88?style=for-the-badge&logo=github&labelColor=0b0f10"/></a>
+        <img src="https://img.shields.io/badge/SPT-00ff88?style=for-the-badge&labelColor=0b0f10"/>
+        <img src="https://img.shields.io/badge/Modding-00ff88?style=for-the-badge&labelColor=0b0f10"/>
       </p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Tiltushkin/auto_trade">
-        <img src="https://placehold.co/840x420/0b0f10/00ff88?text=Auto_Trade%20%E2%80%94%20Preview" alt="auto_trade preview"/>
+      <a href="https://github.com/Tiltushkin/React_Guides">
+        <img src="./assets/preview-react-guides.png" alt="React_Guides preview"/>
       </a>
-      <h4>📈 auto_trade</h4>
-      <p>Инструменты для анализа веб-сокетов/логов и прототип автоторговли для обучения.</p>
+      <h4>📚 React_Guides</h4>
+      <p>Рецепты по React: хуки, роутинг, Redux Toolkit, производительность.</p>
       <p>
-        <a href="https://github.com/Tiltushkin/auto_trade"><img src="https://img.shields.io/badge/Repo-00ff88?style=for-the-badge&logo=github&labelColor=0b0f10"/></a>
-        <img src="https://img.shields.io/badge/Python-00ff88?style=for-the-badge&logo=python&labelColor=0b0f10"/>
-        <img src="https://img.shields.io/badge/Playwright-00ff88?style=for-the-badge&labelColor=0b0f10"/>
+        <img src="https://img.shields.io/badge/Redux%20Toolkit-00ff88?style=for-the-badge&labelColor=0b0f10"/>
+        <img src="https://img.shields.io/badge/Guides-00ff88?style=for-the-badge&labelColor=0b0f10"/>
       </p>
     </td>
   </tr>
 </table>
-
-> Хочешь показать реальные UI — замени `placehold.co/...` на `/assets/preview-*.png` и залей картинки в репо.
 
 ---
 
@@ -172,3 +151,8 @@ $ motto
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00ff88,100:0b0f10&section=footer" alt="footer"/>
 </p>
+
+<!--
+Assets:
+- Put all PNGs/GIF into ./assets next to README.
+-->
