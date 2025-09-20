@@ -53,6 +53,27 @@ $ motto
 
 ---
 
+### 📊 Stats & Trophies
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Tiltushkin&show_icons=true&hide_border=true&bg_color=00000000&title_color=00ff88&text_color=9fe6c3&icon_color=00ff88&v=3" alt="stats"/>
+  <img height="160" src="https://streak-stats.demolab.com?user=Tiltushkin&hide_border=true&background=00000000&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideNums=9fe6c3&sideLabels=9fe6c3&dates=9fe6c3&v=3" alt="streak"/>
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiltushkin&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=00ff88&text_color=9fe6c3&v=3" alt="top langs"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tiltushkin&no-bg=true&no-frame=true&margin-w=10&row=1&column=7&theme=matrix&v=3" alt="trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tiltushkin&bg_color=00000000&color=9fe6c3&line=00ff88&point=00ff88&area=true&hide_border=true&v=3" alt="activity graph"/>
+</p>
+
+---
+
 ### 💎 Избранные проекты
 
 <table>
@@ -108,27 +129,6 @@ $ motto
     </td>
   </tr>
 </table>
-
----
-
-### 📊 Stats & Trophies
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Tiltushkin&show_icons=true&hide_border=true&bg_color=00000000&title_color=00ff88&text_color=9fe6c3&icon_color=00ff88&v=3" alt="stats"/>
-  <img height="160" src="https://streak-stats.demolab.com?user=Tiltushkin&hide_border=true&background=00000000&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideNums=9fe6c3&sideLabels=9fe6c3&dates=9fe6c3&v=3" alt="streak"/>
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiltushkin&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=00ff88&text_color=9fe6c3&v=3" alt="top langs"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tiltushkin&no-bg=true&no-frame=true&margin-w=10&row=1&column=7&theme=matrix&v=3" alt="trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tiltushkin&bg_color=00000000&color=9fe6c3&line=00ff88&point=00ff88&area=true&hide_border=true&v=3" alt="activity graph"/>
-</p>
 
 ---
 
