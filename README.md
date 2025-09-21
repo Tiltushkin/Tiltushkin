@@ -75,10 +75,11 @@ $ motto
 ---
 
 ### Codewars Rank
-
-<p align="center">
-  <img src="https://www.codewars.com/users/Tiltushkin/badges/large" alt="codewars rank"/>
-</p>
+<div align="center">
+  <a href="https://www.codewars.com/users/Tiltushkin">
+    <img src="https://www.codewars.com/users/Tiltushkin/badges/large" alt="codewars rank"/>
+  </a>
+</div>
 
 ---
 
