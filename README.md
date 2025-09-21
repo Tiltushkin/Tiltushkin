@@ -74,6 +74,14 @@ $ motto
 
 ---
 
+### Codewars Rank
+
+<p align="center">
+  <img src="https://www.codewars.com/users/Tiltushkin/badges/large" alt="codewars rank"/>
+</p>
+
+---
+
 ### 💎 Избранные проекты
 
 <table>
