@@ -41,7 +41,7 @@ $ whoami
 $ stack --neon
   ⚙  React • Vue.js • Redux Toolkit • React Router
   🧩 Vite • Webpack • TypeScript • Node tooling
-  🎮 Forge/Kotlin modding • perf & a11y
+  🎯 Clean arch • predictable state • a11y • performance
 
 $ motto
   "Ship fast. Keep it clean. Make it feel right."
@@ -67,6 +67,14 @@ $ motto
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tiltushkin&bg_color=00000000&color=E6DFFF&line=FF2BD1&point=FF2BD1&area=true&hide_border=true&v=3" alt="activity graph"/>
 </p>
+
+---
+
+<div align="center">
+  <a href="https://www.codewars.com/users/Tiltushkin">
+    <img src="https://www.codewars.com/users/Tiltushkin/badges/large" alt="codewars rank"/>
+  </a>
+</div>
 
 ---
 
