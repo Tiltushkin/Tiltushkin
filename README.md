@@ -53,7 +53,7 @@ $ motto
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Tiltushkin&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF2BD1&text_color=E6DFFF&icon_color=FF2BD1&v=3" alt="stats"/>
-  <img height="160" src="https://streak-stats.demolab.com?user=Tiltushkin&hide_border=true&background=00000000&ring=FF2BD1&fire=FF2BD1&currStreakLabel=FF2BD1&sideNums=E6DFFF&sideLabels=E6DFFF&dates=E6DFFF&v=3" alt="streak"/>
+  <!-- <img height="160" src="https://streak-stats.demolab.com?user=Tiltushkin&hide_border=true&background=00000000&ring=FF2BD1&fire=FF2BD1&currStreakLabel=FF2BD1&sideNums=E6DFFF&sideLabels=E6DFFF&dates=E6DFFF&v=3" alt="streak"/> -->
 </p>
 
 <p align="center">
