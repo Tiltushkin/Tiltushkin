@@ -70,6 +70,7 @@ $ motto
 
 ---
 
+### Codewars Rank
 <div align="center">
   <a href="https://www.codewars.com/users/Tiltushkin">
     <img src="https://www.codewars.com/users/Tiltushkin/badges/large" alt="codewars rank"/>
