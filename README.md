@@ -36,7 +36,7 @@
 
 ```bash
 $ whoami
-  tiltushkin — frontend dev (React/Vue) + modding enjoyer
+  tiltushkin — frontend dev (React/Vue)
 
 $ stack --neon
   ⚙  React • Vue.js • Redux Toolkit • React Router
