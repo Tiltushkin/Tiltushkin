@@ -84,50 +84,15 @@ $ motto
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/TheLarhand/Coop_project">
-        <img src="./assets/preview-coop_project.png" alt="Coop_project preview"/>
+      <a href="https://github.com/Tiltushkin/merchShop">
+        <img src="./assets/preview-merchShop.png" alt="Tiltushkin-API preview"/>
       </a>
-      <h4>🧭 Coop_project — CRM</h4>
-      <p>Командный проект: CRM на React + TypeScript (авторизация, лиды, аналитика).</p>
+      <h4>Merch Shop</h4>
+      <p>Онлайн-магазин игрового мерча</p>
       <p>
-        <a href="https://github.com/TheLarhand/Coop_project"><img src="https://img.shields.io/badge/Repo-FF2BD1?style=for-the-badge&logo=github&labelColor=0A0612"/></a>
-        <img src="https://img.shields.io/badge/React-FF2BD1?style=for-the-badge&logo=react&labelColor=0A0612&logoColor=7A3CFF"/>
+        <a href="https://github.com/Tiltushkin/merchShop"><img src="https://img.shields.io/badge/Repo-FF2BD1?style=for-the-badge&logo=github&labelColor=0A0612"/></a>
+        <img src="https://img.shields.io/badge/REACT-FF2BD1?style=for-the-badge&logo=react&labelColor=0A0612"/>
         <img src="https://img.shields.io/badge/TypeScript-FF2BD1?style=for-the-badge&logo=typescript&labelColor=0A0612"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Tiltushkin/Tiltushkin-API">
-        <img src="./assets/preview-tiltushkin-api.png" alt="Tiltushkin-API preview"/>
-      </a>
-      <h4>🧩 Tiltushkin-API</h4>
-      <p>Backend: C# + MySQL + phpMyAdmin. REST, авторизация, CRUD.</p>
-      <p>
-        <a href="https://github.com/Tiltushkin/Tiltushkin-API"><img src="https://img.shields.io/badge/Repo-FF2BD1?style=for-the-badge&logo=github&labelColor=0A0612"/></a>
-        <img src="https://img.shields.io/badge/C%23-FF2BD1?style=for-the-badge&logo=dotnet&labelColor=0A0612"/>
-        <img src="https://img.shields.io/badge/MySQL-FF2BD1?style=for-the-badge&logo=mysql&labelColor=0A0612"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Tiltushkin/KENTOZE-ALLAMMO">
-        <img src="./assets/preview-kentoze-allammo.png" alt="KENTOZE-ALLAMMO preview"/>
-      </a>
-      <h4>🎯 KENTOZE-ALLAMMO</h4>
-      <p>Мод для SPT: торговец всеми патронами, удобные конфиги, QoL.</p>
-      <p>
-        <a href="https://github.com/Tiltushkin/KENTOZE-ALLAMMO"><img src="https://img.shields.io/badge/Repo-FF2BD1?style=for-the-badge&logo=github&labelColor=0A0612"/></a>
-        <img src="https://img.shields.io/badge/SPT-FF2BD1?style=for-the-badge&labelColor=0A0612"/>
-        <img src="https://img.shields.io/badge/Modding-FF2BD1?style=for-the-badge&labelColor=0A0612"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <img src="./assets/preview-react-guides.png" alt="React_Guides preview"/>
-      <h4>📚 React_Guides</h4>
-      <p>Рецепты по React: хуки, роутинг, Redux Toolkit, производительность.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Redux%20Toolkit-FF2BD1?style=for-the-badge&labelColor=0A0612"/>
-        <img src="https://img.shields.io/badge/Guides-FF2BD1?style=for-the-badge&labelColor=0A0612"/>
       </p>
     </td>
   </tr>
