@@ -85,12 +85,25 @@ $ motto
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Tiltushkin/merchShop">
-        <img src="./assets/preview-merchShop.png" alt="Tiltushkin-API preview"/>
+        <img src="./assets/preview-merchShop.png" alt="Merch Shop preview"/>
       </a>
       <h4>Merch Shop</h4>
       <p>Онлайн-магазин игрового мерча</p>
       <p>
         <a href="https://github.com/Tiltushkin/merchShop"><img src="https://img.shields.io/badge/Repo-FF2BD1?style=for-the-badge&logo=github&labelColor=0A0612"/></a>
+        <img src="https://img.shields.io/badge/REACT-FF2BD1?style=for-the-badge&logo=react&labelColor=0A0612"/>
+        <img src="https://img.shields.io/badge/TypeScript-FF2BD1?style=for-the-badge&logo=typescript&labelColor=0A0612"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="">
+        <img src="./assets/preview-potato-pc.png" alt="Potato PC preview"/>
+      </a>
+      <h4>Potato PC (WIP)</h4>
+      <p>Онлайн конфигуратор сборок ПК</p>
+      <p>
         <img src="https://img.shields.io/badge/REACT-FF2BD1?style=for-the-badge&logo=react&labelColor=0A0612"/>
         <img src="https://img.shields.io/badge/TypeScript-FF2BD1?style=for-the-badge&logo=typescript&labelColor=0A0612"/>
       </p>
