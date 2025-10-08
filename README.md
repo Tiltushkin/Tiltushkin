@@ -98,7 +98,7 @@ $ motto
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="">
+      <a href="./assets/preview-potato-pc.png">
         <img src="./assets/preview-potato-pc.png" alt="Potato PC preview"/>
       </a>
       <h4>Potato PC (WIP)</h4>
