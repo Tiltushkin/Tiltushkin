@@ -98,12 +98,13 @@ $ motto
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="./assets/preview-potato-pc.png">
+      <a href="https://github.com/Tiltushkin/PC_configurator">
         <img src="./assets/preview-potato-pc.png" alt="Potato PC preview"/>
       </a>
-      <h4>Potato PC (WIP)</h4>
+      <h4>Potato PC</h4>
       <p>Онлайн конфигуратор сборок ПК</p>
       <p>
+        <a href="https://github.com/Tiltushkin/PC_configurator"><img src="https://img.shields.io/badge/Repo-FF2BD1?style=for-the-badge&logo=github&labelColor=0A0612"/></a>
         <img src="https://img.shields.io/badge/REACT-FF2BD1?style=for-the-badge&logo=react&labelColor=0A0612"/>
         <img src="https://img.shields.io/badge/TypeScript-FF2BD1?style=for-the-badge&logo=typescript&labelColor=0A0612"/>
       </p>
